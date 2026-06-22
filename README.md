@@ -9,6 +9,8 @@ A fully functional multi-client desktop chat app built with:
 
 ---
 
+## Screenshots
+
 ## Project Structure
 
 ```
