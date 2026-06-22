@@ -23,11 +23,11 @@ A fully functional multi-client desktop chat app built with:
 ![image alt](https://github.com/Rahil-Ahmad/java-chat-system/blob/c95f09b1a4153a649c437ce827509376996781da/chat3.png)
 
 
-4. Aleena(user) sends the messege it broadcast it and seen by Every user
+4. Aleena(user) sends the messege its broadcast to every user
 ![image alt](https://github.com/Rahil-Ahmad/java-chat-system/blob/de85176812bae580319f4153d7c786913facda02/chat4.png)
 
 
-5. Aleena(user) privatly sends messege to Anas(user)
+5. Aleena(user) sends messege privately to Anas(user)
 ![image alt](https://github.com/Rahil-Ahmad/java-chat-system/blob/a887290bfee64d50aa9d9f827d8a0d66efaf255f/%20chat5.png)
 
 
