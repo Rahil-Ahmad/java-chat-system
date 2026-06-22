@@ -19,6 +19,9 @@ A fully functional multi-client desktop chat app built with:
 
 ![image alt](https://github.com/Rahil-Ahmad/java-chat-system/blob/de85176812bae580319f4153d7c786913facda02/chat4.png)
 
+![image alt](https://github.com/Rahil-Ahmad/java-chat-system/blob/a887290bfee64d50aa9d9f827d8a0d66efaf255f/%20chat5.png)
+
+
 ## Project Structure
 
 ```
