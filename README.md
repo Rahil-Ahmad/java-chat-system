@@ -11,15 +11,28 @@ A fully functional multi-client desktop chat app built with:
 
 ## Screenshots
 
+1. Login Page
 ![image alt](https://github.com/Rahil-Ahmad/java-chat-system/blob/8ec418c81a7555fb5189e427263489faf81ebb4b/chat1.png)
 
+
+2. Enter user Details
 ![image alt](https://github.com/Rahil-Ahmad/java-chat-system/blob/0f4d4c542c1cbaebdd5f01d1633671e5f784a2be/chat2.png)
 
+
+3. All users Available in chat
 ![image alt](https://github.com/Rahil-Ahmad/java-chat-system/blob/c95f09b1a4153a649c437ce827509376996781da/chat3.png)
 
+
+4. When Aleena(user) sends the messege it broadcast it and seen by Every user
 ![image alt](https://github.com/Rahil-Ahmad/java-chat-system/blob/de85176812bae580319f4153d7c786913facda02/chat4.png)
 
+
+5. Aleena(user) privatly sends messege to Anas(user)
 ![image alt](https://github.com/Rahil-Ahmad/java-chat-system/blob/a887290bfee64d50aa9d9f827d8a0d66efaf255f/%20chat5.png)
+
+
+6.Anas(user) recieves the messege from Aleena(user)
+![image alt](https://github.com/Rahil-Ahmad/java-chat-system/blob/c6610618bf093f035984c3abc2771c2c56d43319/chat6.png)
 
 
 ## Project Structure
